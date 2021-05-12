@@ -16,4 +16,6 @@
 * A - поворот влево
 * D - поворот вправо
 
+* X - выход
+
 ![screenshot](screenshot.png)
